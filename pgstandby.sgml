@@ -13,7 +13,7 @@
 
  <refnamediv>
   <refname>pg_standby</refname>
-  <refpurpose>supports the creation of a <productname>PostgreSQL</productname> warm standby server</refpurpose>
+  <refpurpose>支持创建 <productname>PostgreSQL</productname> 热备服务</refpurpose>
  </refnamediv>
 
  <refsynopsisdiv>
@@ -31,9 +31,8 @@
   <title>Description</title>
 
  <para>
-  <application>pg_standby</> supports creation of a <quote>warm standby</>
-  database server.  It is designed to be a production-ready program, as well
-  as a customizable template should you require specific modifications.
+  <application>pg_standby</> 支持创建 <quote>热备份</>
+  数据服务.该服务被作为一项"预生产"项目设计,可以很好的根据您的特别需求制定模板.
  </para>
 
  <para>
